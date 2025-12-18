@@ -32,6 +32,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -127,13 +128,14 @@ urlpatterns = [
     path('areaofsurface/',views.surfacearea,name="areaofsurface"),
     path('',views.surfacearea,name="areaofsurfaceroot")
 ]
+```
 
 ## SERVER SIDE PROCESSING:
 <img width="1915" height="1072" alt="Screenshot 2025-12-17 204310" src="https://github.com/user-attachments/assets/921ad23d-4789-418f-a515-da33dfa04cee" />
 
-<img width="1259" height="329" alt="Screenshot 2025-12-17 204335" src="https://github.com/user-attachments/assets/2862a491-76b7-44e7-b65c-bf355d479468" />
 
 ## HOMEPAGE:
+<img width="1259" height="329" alt="Screenshot 2025-12-17 204335" src="https://github.com/user-attachments/assets/2862a491-76b7-44e7-b65c-bf355d479468" />
 
 
 ## RESULT:
